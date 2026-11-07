@@ -7,7 +7,7 @@ int main(void)
     
     if (input >= 101)
         printf("NG");
-    else if (input > 90)
+    else if (input >= 90)
         printf("AA");
     else if (input >= 80)
         printf("A");
